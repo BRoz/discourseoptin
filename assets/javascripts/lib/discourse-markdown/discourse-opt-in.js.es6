@@ -5,7 +5,7 @@ registerOption((siteSettings, opts) => {
 });
 
 export function setup(helper) {
-  helper.whiteList([ 'div[id=om-c9tomymotiytwdyn-holder]' ]);
+  helper.whiteList([ 'div[id=om-spqpil8epyemmst5-holder]' ]);
   helper.whiteList([ 'div[id=om-drf1qz5ewl5qyv4h-holder]' ]);
   helper.whiteList([ 'div[id=om-mbdbce2ivjh5kuo8-holder]' ]);
   helper.whiteList([ 'div[id=om-eksxbyhcmv27mhll-holder]' ]);
